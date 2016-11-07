@@ -1,0 +1,23 @@
+PODS:
+  - PubNub (4.5.3):
+    - PubNub/Core (= 4.5.3)
+  - PubNub/Core (4.5.3)
+  - VirgilFoundation (2.0.0)
+  - VirgilSDK (3.3.0):
+    - VirgilFoundation (~> 2.0)
+  - XAsync (2.0.1)
+
+DEPENDENCIES:
+  - PubNub
+  - VirgilSDK (~> 3.3)
+  - XAsync (~> 2.0)
+
+SPEC CHECKSUMS:
+  PubNub: 42623b6046ab65bb2ec9c4fb51791d86aa956926
+  VirgilFoundation: 14e4fa48c4b655a4f112090af8df395d613fed12
+  VirgilSDK: dba31721877a61abe041290fce7b4530616627d2
+  XAsync: 60f85d4be40cffdedd7554a48886ee6f74060e69
+
+PODFILE CHECKSUM: 5f1541eeca8ef0b07aefc8cff7dc739924f096d8
+
+COCOAPODS: 1.1.0.rc.1
